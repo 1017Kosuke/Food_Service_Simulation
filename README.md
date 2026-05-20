@@ -281,4 +281,11 @@ Kosuke Arii
 Computer Science Student at APU  
 Interested in Backend Development, Cloud, and Product Engineering
 
-#PHP #OOP #ObjectOrientedProgramming #BackendDevelopment #SoftwareEngineering #Simulation #RestaurantSystem #FoodOrderingSystem #PHPProject #LearningProject #Inheritance #Encapsulation #Polymorphism #Namespaces #VSCode #WSL #Ubuntu #GitHub #Programming #ObjectOrientedDesign #StudentProject
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-Development-green?style=for-the-badge)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/WSL-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![OOP Design](https://img.shields.io/badge/Design-OOP-orange?style=for-the-badge)
+![Simulation](https://img.shields.io/badge/System-Simulation-red?style=for-the-badge)
