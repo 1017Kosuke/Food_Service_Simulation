@@ -280,3 +280,5 @@ Possible future extensions:
 Kosuke Arii
 Computer Science Student at APU  
 Interested in Backend Development, Cloud, and Product Engineering
+
+#PHP #OOP #ObjectOrientedProgramming #BackendDevelopment #SoftwareEngineering #Simulation #RestaurantSystem #FoodOrderingSystem #PHPProject #LearningProject #Inheritance #Encapsulation #Polymorphism #Namespaces #VSCode #WSL #Ubuntu #GitHub #Programming #ObjectOrientedDesign #StudentProject
